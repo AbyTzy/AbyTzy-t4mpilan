@@ -13,8 +13,8 @@ pkg install git && pkg install figlet
 pkg install python && pkg install python2
 pkg install bash
 git clone https://github.com/AbyTzy/AbyTzy-t4mpilan.git
-cd tampilan
-bash tampilan.sh
+cd AbyTzy-t4mpilan
+python logo.py
 Ikutin Yang Ada Di video Tinggal 
 Copy Paste Kok Gan😉
 ```
