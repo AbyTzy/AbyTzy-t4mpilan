@@ -12,7 +12,7 @@ pkg update && pkg upgrade
 pkg install git && pkg install figlet
 pkg install python && pkg install python2
 pkg install bash
-git clone https://github.com/Lord-Ammar/tampilan
+git clone https://github.com/AbyTzy/AbyTzy-t4mpilan.git
 cd tampilan
 bash tampilan.sh
 Ikutin Yang Ada Di video Tinggal 
@@ -29,5 +29,5 @@ Copy Paste Kok Gan😉
 **Semua yang selalu mendukung**
 
 ## Developer
-[![Lord-Amnar](https://github.com/Lord-Ammar.png?size=100)](https://github.com/Lord-Ammar)
-[![AmmarBN](https://github.com/AmmarBN.png?size=100)](https://github.com/AmmarBN)
+[![AbyTzy](https://github.com/AbyTzy/AbyTzy-t4mpilan.git)
+[![AbyTzy](https://github.com/AbyTzy/AbyTzy-t4mpilan.git)](https://github.com/AbyTzy/AbyTzy-t4mpilan.git)
